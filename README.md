@@ -11,7 +11,7 @@
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kasunthamadushanka/telegraph-uploder-bot)
 
 
-## Necessary Variables
+## Necessary Variables:
 - `API_ID` - Your API_ID from [my.telegram.org](https://my.telegram.org/)
 - `API_HASH` - Your API_HASH from [my.telegram.org](https://my.telegram.org/)
 - `TG_BOT_TOKEN` - Create a bot ang get bot token from [BotFather](https://t.me/BotFather)
